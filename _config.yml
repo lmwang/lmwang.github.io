@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Configuration and Build 
+description:      Practise on any topic about software configuration, build and release management.
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -36,10 +36,6 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

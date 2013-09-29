@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "设置中文测试"
 description: "测试发表中文博客."
@@ -11,8 +11,8 @@ image:
 comments: true  
 ---
 
-## VIM 中文设置
+## 编辑器中文设置
 
-如果显示乱码，在编辑器重可以设置编码为UTF-8。
+如果显示乱码，在编辑器重可以设置编码为UTF-8不带BOM。
 
 
